@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Component1 = ({ title, onClick }) => {
+const JsonTools = ({ title, onClick }) => {
   return (
    <div>
      111111
@@ -8,4 +8,4 @@ const Component1 = ({ title, onClick }) => {
   );
 };
 
-export default Component1;
+export default JsonTools;

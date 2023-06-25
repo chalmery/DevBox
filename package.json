@@ -12,19 +12,20 @@
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.11.16",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react18-json-view": "^0.0.8"
   },
   "devDependencies": {
     "@types/react": "^18.0.37",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^4.0.0",
     "autoprefixer": "^10.4.14",
+    "electron": "^21.0.0",
+    "electron-builder": "^24.4.0",
+    "electron-devtools-installer": "^3.2.0",
     "postcss": "^8.4.24",
     "tailwindcss": "^3.3.2",
     "vite": "^4.3.9",
-    "vite-plugin-electron": "^0.9.3",
-    "electron": "^21.0.0",
-    "electron-builder": "^24.4.0",
-    "electron-devtools-installer": "^3.2.0"
+    "vite-plugin-electron": "^0.9.3"
   }
 }

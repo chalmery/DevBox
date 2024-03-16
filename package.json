@@ -1,5 +1,5 @@
 {
-  "name": "devbox",
+  "name": "devbox-tea",
   "private": true,
   "version": "0.0.1",
   "main": "dist/electron/main/index.js",
